@@ -1,6 +1,6 @@
 # :fire: Welcome to the UI5 Community organization on GitHub
 
-Welcome to the official open-source home of the UI5 Community which hosts projects around [**OpenUI5**](https://sdk.openui5.org/), like UI5 libraries, UI5 custom controls, UI5 Tooling related extensions, e.g. middlewares and tasks - or even completly different projects around testing and more...
+Welcome to the official open-source home of the UI5 Community which hosts projects around [**OpenUI5**](https://sdk.openui5.org/), like OpenUI5 libraries, OpenUI5 custom controls, UI5 Tooling related extensions, e.g. middlewares and tasks - or even completly different projects around testing and more...
 
 ## :globe_with_meridians: What is UI5?
 
@@ -8,7 +8,6 @@ UI5 represents a collaborative effort to provide developers with a comprehensive
 
 ## :rocket: Our mission 
 
-Welcome to the official open-source home of the UI5 Community — a collaborative space jointly driven by SAP and the community. Our mission is to foster innovation, openness, and shared ownership around the OpenUI5 ecosystem.
 Here, we host and grow a diverse range of UI5-related projects — from custom libraries and controls, to UI5 Tooling extensions like middlewares and tasks, as well as complementary tools for testing, integration, and beyond.
 Together, we build, share, and evolve — empowering developers to shape the future of UI5, one contribution at a time.
 
