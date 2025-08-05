@@ -14,6 +14,7 @@ Together, we build, share, and evolve — empowering developers to shape the fut
 ## :star: Our key projects
 
 * [**wdi5**](https://ui5-community.github.io/wdi5/), designed to run cross-platform end-to-end tests on a UI5 application, with selectors compatible to OPA5.
+* [**Easy UI5**](https://github.com/ui5-community/generator-easy-ui5), the Yeoman generator which enables you to create simple SAPUI5/OpenUI5-based web-apps and other UI5-related projects within seconds.
 * [**bestofui5.org**](https://bestofui5.org/), is the essential showcase and discovery platform for reusable, high-quality UI5 ecosystem projects fostered and curated by the community.
 * [**UI5 Ecosystem Showcase**](https://ui5-community.github.io/ui5-ecosystem-showcase/), community-powered hub for showcasing and sharing practical UI5 tooling extensions.
 
